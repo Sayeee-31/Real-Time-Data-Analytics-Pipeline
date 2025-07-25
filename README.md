@@ -1,5 +1,3 @@
-# Real-Time-Data-Analytics-Pipeline
-
 # Real-Time Data Analytics Pipeline
 An *end-to-end real-time data analytics pipeline* built using *Azure Data Factory, Databricks, and Synapse Analytics*.  
 This project follows the *Medallion Architecture (Bronze → Silver → Gold layers)* to ensure clean, structured, and analytics-ready data flow.
